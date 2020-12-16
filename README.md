@@ -1,0 +1,1 @@
+# Comparison-between-CNN-and-MLP-Application-on-Fashion-MNIST
